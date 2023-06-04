@@ -1,0 +1,12 @@
+web\invoice\services\ClienteServicesImpl.class
+web\invoice\models\entities\ItemFactura.class
+web\invoice\controllers\ClienteController.class
+web\invoice\models\entities\Producto.class
+web\invoice\controllers\FacturaControllers.class
+web\invoice\models\dao\IFacturaDao.class
+web\invoice\models\dao\IProductoDao.class
+web\invoice\WebInvoiceUtsProgramacionApplication.class
+web\invoice\models\entities\Factura.class
+web\invoice\models\entities\Cliente.class
+web\invoice\services\IClienteServices.class
+web\invoice\models\dao\IClienteDao.class

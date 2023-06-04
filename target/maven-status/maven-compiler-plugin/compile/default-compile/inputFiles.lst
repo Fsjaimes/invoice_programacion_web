@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\Spring Tools\Web Services\web-invoice-uts-programacion\src\main\java\web\invoice\models\entities\ItemFactura.java
+C:\Users\Usuario\Documents\Spring Tools\Web Services\web-invoice-uts-programacion\src\main\java\web\invoice\models\entities\Factura.java
+C:\Users\Usuario\Documents\Spring Tools\Web Services\web-invoice-uts-programacion\src\main\java\web\invoice\models\entities\Cliente.java
+C:\Users\Usuario\Documents\Spring Tools\Web Services\web-invoice-uts-programacion\src\main\java\web\invoice\services\ClienteServicesImpl.java
+C:\Users\Usuario\Documents\Spring Tools\Web Services\web-invoice-uts-programacion\src\main\java\web\invoice\models\dao\IClienteDao.java
+C:\Users\Usuario\Documents\Spring Tools\Web Services\web-invoice-uts-programacion\src\main\java\web\invoice\models\dao\IFacturaDao.java
+C:\Users\Usuario\Documents\Spring Tools\Web Services\web-invoice-uts-programacion\src\main\java\web\invoice\WebInvoiceUtsProgramacionApplication.java
+C:\Users\Usuario\Documents\Spring Tools\Web Services\web-invoice-uts-programacion\src\main\java\web\invoice\controllers\FacturaControllers.java
+C:\Users\Usuario\Documents\Spring Tools\Web Services\web-invoice-uts-programacion\src\main\java\web\invoice\services\IClienteServices.java
+C:\Users\Usuario\Documents\Spring Tools\Web Services\web-invoice-uts-programacion\src\main\java\web\invoice\models\entities\Producto.java
+C:\Users\Usuario\Documents\Spring Tools\Web Services\web-invoice-uts-programacion\src\main\java\web\invoice\models\dao\IProductoDao.java
+C:\Users\Usuario\Documents\Spring Tools\Web Services\web-invoice-uts-programacion\src\main\java\web\invoice\controllers\ClienteController.java
